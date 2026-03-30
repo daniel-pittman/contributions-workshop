@@ -44,8 +44,8 @@ Click **Fork** at the top-right of this GitHub page. This creates your own copy 
 ### 2. Clone your fork
 
 ```bash
-git clone https://github.com/<your-username>/todo_workshop.git
-cd todo_workshop
+git clone https://github.com/<your-username>/contributions-workshop.git
+cd contributions-workshop
 ```
 
 ### 3. Create a branch for your fix
