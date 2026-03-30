@@ -68,7 +68,7 @@ class _TodoHomeState extends State<TodoHome> {
                           value: _tasks[index]['done'],
                           onChanged: (val) {
                             setState(() {
-                              _tasks[index]['done'] = true;
+                              _tasks[index]['done'] = val;
                             });
                           },
                         ),
